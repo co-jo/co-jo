@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @co-jo
 - 👀 I’m interested in Distributed Systems
 - 🌱 I’m currently learning Rust
-- 🖥️ I'm working @DellEMC on [https://github.com/pravega/pravega](@Pravega)
+- 🖥️ I'm working @DellEMC on [@Pravega](https://github.com/pravega/pravega)
 
 <!---
 co-jo/co-jo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
